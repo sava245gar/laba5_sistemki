@@ -6,7 +6,7 @@ import java.net.URL;
 public class Main  {
 
     public static void main(String[] args) {
-        String urlString = "https://cdnproxy3.mp3xa.me/1XhT3tDzQ-ETJK-Urb29hw/1793398782/L21wMy8yMDIwLzAyL9Cd0LXRgNCy0YsgLSDQndC10YDQstGLLm1wMw";
+        String urlString = "https://music.yandex.ru/playlists/lk.fa13ddd4-ef8f-4867-8e1b-ea9b6155991f";
         String filename = "song.mp3";
 
         Thread downloadThread = new Thread(new Runnable() {
